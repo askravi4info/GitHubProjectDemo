@@ -8,6 +8,7 @@ public class FirstClassDemo {
 		int favNumber = 100;
 		float floatNum = 100.00f;
 		char charVal = 'h';
+		String stringVal = 'Hello';
 		
 //		int x = 5;
 //		int y = 6;

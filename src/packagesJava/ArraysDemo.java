@@ -26,6 +26,7 @@ public class ArraysDemo {
 //		System.out.println("Array index 1 - " + myStringArray[1]);
 //		System.out.println("Array index 2 - " + myStringArray[2]);
 //		System.out.println("Array index 3 - " + myStringArray[3]);
+//		System.out.println("Array index 3 - " + myStringArray[4]);
 		
 		String[] myStringArray = {"BMW", "Audi", "Benz"};
 		
