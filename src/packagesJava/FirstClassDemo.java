@@ -7,7 +7,7 @@ public class FirstClassDemo {
 		String language = "Ruby";
 		int favNumber = 100;
 		float floatNum = 100.00f;
-		char charVal = 'h';
+		char charVal = 'k';
 		String stringVal = 'Hello';
 		
 //		int x = 5;
